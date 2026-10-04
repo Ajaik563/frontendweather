@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import weatherData from "./data/weatherData.json";
+import weatherData from "./data/weatherdata.json";
 
 import Header from "./Component/Header";
 import Search from "./Component/Search";

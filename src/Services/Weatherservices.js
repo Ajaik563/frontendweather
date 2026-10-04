@@ -1,5 +1,5 @@
 import axios from "axios";
-import weatherData from "../data/weatherData.json";
+import weatherData from "../data/weatherdata.json";
 
 const API_URL = "http://localhost:5000/api/weather";
 
